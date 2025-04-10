@@ -1,6 +1,12 @@
 # Seekho_Anime
 An assignment for a job at Seekho
 
+## 📱 Download APK
+
+You can download and install the latest release of the app from the link below:
+
+👉 [Download APK from Google Drive](https://drive.google.com/file/d/1FiLmqTz8y5Kaoych6LpdzPsQzuvzA4il/view?usp=sharing)
+
 # Anime Listing App
 
 This is an Android application that showcases a list of top anime fetched from the [Jikan API](https://jikan.moe/). It displays popular anime, their details, and allows users to watch trailers using YouTube embedded videos.
